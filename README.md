@@ -1,3 +1,3 @@
 # CS2-Speed-Meter
 
-UC = 
+UC = WhyLol123
